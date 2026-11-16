@@ -1,0 +1,138 @@
+{
+  "3353431574710163189587446": {
+    "data": {
+      "accountId": "3353431574710163189587446",
+      "currentBalance": 33607.16,
+      "availableBalance": 33607.16,
+      "budgetBalance": 0,
+      "straightBalance": 0,
+      "cashBalance": 0,
+      "currency": "ZAR"
+    },
+    "links": {
+      "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/3353431574710163189587446/balance"
+    },
+    "meta": {
+      "totalPages": 1
+    }
+  },
+  "3353431574710166878182963": {
+    "data": {
+      "accountId": "3353431574710166878182963",
+      "currentBalance": 1364.21,
+      "availableBalance": 1364.21,
+      "budgetBalance": 0,
+      "straightBalance": 0,
+      "cashBalance": 0,
+      "currency": "ZAR"
+    },
+    "links": {
+      "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/3353431574710166878182963/balance"
+    },
+    "meta": {
+      "totalPages": 1
+    }
+  },
+  "3353431574710189969910439": {
+    "data": {
+      "accountId": "3353431574710189969910439",
+      "currentBalance": 1694.61,
+      "availableBalance": 1694.61,
+      "budgetBalance": 0,
+      "straightBalance": 0,
+      "cashBalance": 0,
+      "currency": "ZAR"
+    },
+    "links": {
+      "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/3353431574710189969910439/balance"
+    },
+    "meta": {
+      "totalPages": 1
+    }
+  },
+  "3353431574710163191281913": {
+    "data": {
+      "accountId": "3353431574710163191281913",
+      "currentBalance": 1277.02,
+      "availableBalance": 1277.02,
+      "budgetBalance": 0,
+      "straightBalance": 0,
+      "cashBalance": 0,
+      "currency": "ZAR"
+    },
+    "links": {
+      "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/3353431574710163191281913/balance"
+    },
+    "meta": {
+      "totalPages": 1
+    }
+  },
+  "2111047871310183964720792": {
+    "data": {
+      "accountId": "2111047871310183964720792",
+      "currentBalance": 987.51,
+      "availableBalance": 987.51,
+      "budgetBalance": 0,
+      "straightBalance": 0,
+      "cashBalance": 0,
+      "currency": "ZAR"
+    },
+    "links": {
+      "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/2111047871310183964720792/balance"
+    },
+    "meta": {
+      "totalPages": 1
+    }
+  },
+  "2111047871310183964825897": {
+    "data": {
+      "accountId": "2111047871310183964825897",
+      "currentBalance": 2525.25,
+      "availableBalance": 2525.25,
+      "budgetBalance": 0,
+      "straightBalance": 0,
+      "cashBalance": 0,
+      "currency": "ZAR"
+    },
+    "links": {
+      "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/2111047871310183964825897/balance"
+    },
+    "meta": {
+      "totalPages": 1
+    }
+  },
+  "3882638263210182035050683": {
+    "data": {
+      "accountId": "3882638263210182035050683",
+      "currentBalance": 55.27,
+      "availableBalance": 55.27,
+      "budgetBalance": 0,
+      "straightBalance": 0,
+      "cashBalance": 0,
+      "currency": "ZAR"
+    },
+    "links": {
+      "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/3882638263210182035050683/balance"
+    },
+    "meta": {
+      "totalPages": 1
+    }
+  },
+  "3882638263210182035137740": {
+    "data": {
+      "accountId": "3882638263210182035137740",
+      "currentBalance": 11576.64,
+      "availableBalance": 11576.64,
+      "budgetBalance": 0,
+      "straightBalance": 0,
+      "cashBalance": 0,
+      "currency": "ZAR"
+    },
+    "links": {
+      "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/3882638263210182035137740/balance"
+    },
+    "meta": {
+      "totalPages": 1
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "buffer": 0.10,
+  "roundTo": 50,
+  "underThresholdRatio": 0.05,
+  "underThresholdAbs": 100,
+  "currency": "ZAR",
+  "runwayBuffer": 2000,
+  "runwayWarnDays": 7,
+  "prestageThreshold": 1500,
+  "limits": {}
+}

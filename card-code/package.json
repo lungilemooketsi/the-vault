@@ -1,0 +1,13 @@
+{
+  "name": "the-vault-card",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Investec programmable card code for The Vault. beforeTransaction stays local; afterTransaction posts a masked event.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test",
+    "simulate": "node tools/simulate.js",
+    "stress": "node tools/stress.js",
+    "decide": "node tools/decide.js"
+  }
+}

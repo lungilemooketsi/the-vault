@@ -1,0 +1,12 @@
+{
+  "source": "Investec public sandbox",
+  "baseUrl": "https://openapisandbox.investec.com",
+  "pulledOn": "2026-11-16",
+  "fromDate": "2020-01-01",
+  "toDate": "2026-11-16",
+  "privateBankProduct": "Private Bank Account",
+  "postedCount": 264,
+  "transactionDateMin": "2026-08-11",
+  "transactionDateMax": "2026-11-16",
+  "note": "Credentials are not stored. Long digit runs in descriptions were masked. Refresh with tools/refresh_sandbox_fixture.py using env vars."
+}

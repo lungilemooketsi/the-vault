@@ -1,0 +1,578 @@
+{
+  "3353431574710166878182963": {
+    "status": 200,
+    "count": 11,
+    "body": {
+      "data": {
+        "transactions": [
+          {
+            "accountId": "3353431574710166878182963",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Sep22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-09-16",
+            "amount": 5.5,
+            "runningBalance": 1281.05,
+            "uuid": "other-2963-0001"
+          },
+          {
+            "accountId": "3353431574710166878182963",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Transfer from Card Internet Value Date 21Sep22 UBP**** **** API transfer",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-10-07",
+            "amount": 10,
+            "runningBalance": 1291.05,
+            "uuid": "other-2963-0002"
+          },
+          {
+            "accountId": "3353431574710166878182963",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Transfer from Card Internet Value Date 22Sep22 UBP**** **** API transfer",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-10-09",
+            "amount": 10,
+            "runningBalance": 1301.05,
+            "uuid": "other-2963-0003"
+          },
+          {
+            "accountId": "3353431574710166878182963",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Transfer from Card Internet Value Date 22Sep22 UBP**** **** API transfer",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-10-09",
+            "amount": 10,
+            "runningBalance": 1311.05,
+            "uuid": "other-2963-0004"
+          },
+          {
+            "accountId": "3353431574710166878182963",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Transfer from Card Internet Value Date 22Sep22 UBP**** **** API transfer",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-10-09",
+            "amount": 10,
+            "runningBalance": 1321.05,
+            "uuid": "other-2963-0005"
+          },
+          {
+            "accountId": "3353431574710166878182963",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Transfer from Card Internet Value Date 22Sep22 UBP**** **** API transfer",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-10-09",
+            "amount": 10,
+            "runningBalance": 1331.05,
+            "uuid": "other-2963-0006"
+          },
+          {
+            "accountId": "3353431574710166878182963",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Transfer from Card Internet Value Date 22Sep22 UBP**** **** 321",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-10-09",
+            "amount": 1,
+            "runningBalance": 1332.05,
+            "uuid": "other-2963-0007"
+          },
+          {
+            "accountId": "3353431574710166878182963",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Transfer from Card Internet Value Date 22Sep22 UBP**** **** API transfer",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-10-09",
+            "amount": 10,
+            "runningBalance": 1342.05,
+            "uuid": "other-2963-0008"
+          },
+          {
+            "accountId": "3353431574710166878182963",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Oct22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-10-16",
+            "amount": 5.85,
+            "runningBalance": 1347.9,
+            "uuid": "other-2963-0009"
+          },
+          {
+            "accountId": "3353431574710166878182963",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Transfer from Card Internet Value Date 04Oct22 UBP**** **** API transfer",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-10-21",
+            "amount": 10,
+            "runningBalance": 1357.9,
+            "uuid": "other-2963-0010"
+          },
+          {
+            "accountId": "3353431574710166878182963",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Nov22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-11-16",
+            "amount": 6.31,
+            "runningBalance": 1364.21,
+            "uuid": "other-2963-0011"
+          }
+        ]
+      },
+      "links": {
+        "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/3353431574710166878182963/transactions?fromDate=2020-01-01&toDate=2026-11-16"
+      },
+      "meta": {
+        "totalPages": 1
+      }
+    }
+  },
+  "3353431574710189969910439": {
+    "status": 200,
+    "count": 3,
+    "body": {
+      "data": {
+        "transactions": [
+          {
+            "accountId": "3353431574710189969910439",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Sep22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-09-16",
+            "amount": 3.6,
+            "runningBalance": 1687.51,
+            "uuid": "other-0439-0001"
+          },
+          {
+            "accountId": "3353431574710189969910439",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Oct22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-10-16",
+            "amount": 3.49,
+            "runningBalance": 1691,
+            "uuid": "other-0439-0002"
+          },
+          {
+            "accountId": "3353431574710189969910439",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Nov22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-11-16",
+            "amount": 3.61,
+            "runningBalance": 1694.61,
+            "uuid": "other-0439-0003"
+          }
+        ]
+      },
+      "links": {
+        "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/3353431574710189969910439/transactions?fromDate=2020-01-01&toDate=2026-11-16"
+      },
+      "meta": {
+        "totalPages": 1
+      }
+    }
+  },
+  "3353431574710163191281913": {
+    "status": 200,
+    "count": 3,
+    "body": {
+      "data": {
+        "transactions": [
+          {
+            "accountId": "3353431574710163191281913",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Sep22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-09-16",
+            "amount": 3.32,
+            "runningBalance": 1269.61,
+            "uuid": "other-1913-0001"
+          },
+          {
+            "accountId": "3353431574710163191281913",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Oct22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-10-16",
+            "amount": 3.64,
+            "runningBalance": 1273.25,
+            "uuid": "other-1913-0002"
+          },
+          {
+            "accountId": "3353431574710163191281913",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Nov22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-11-16",
+            "amount": 3.77,
+            "runningBalance": 1277.02,
+            "uuid": "other-1913-0003"
+          }
+        ]
+      },
+      "links": {
+        "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/3353431574710163191281913/transactions?fromDate=2020-01-01&toDate=2026-11-16"
+      },
+      "meta": {
+        "totalPages": 1
+      }
+    }
+  },
+  "2111047871310183964720792": {
+    "status": 200,
+    "count": 2,
+    "body": {
+      "data": {
+        "transactions": [
+          {
+            "accountId": "2111047871310183964720792",
+            "type": "DEBIT",
+            "transactionType": "CardPurchases",
+            "status": "POSTED",
+            "description": "ST STITHIANS COLLEGE SANDTON ZA",
+            "cardNumber": "****5015",
+            "postedOrder": 155,
+            "postingDate": "2026-11-12",
+            "valueDate": "2026-11-30",
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-11-10",
+            "amount": 13,
+            "runningBalance": 975.51,
+            "uuid": "other-0792-0001"
+          },
+          {
+            "accountId": "2111047871310183964720792",
+            "type": "CREDIT",
+            "transactionType": "Deposits",
+            "status": "POSTED",
+            "description": "FROM MOM",
+            "cardNumber": "",
+            "postedOrder": 156,
+            "postingDate": "2026-11-16",
+            "valueDate": "2026-11-16",
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-11-16",
+            "amount": 12,
+            "runningBalance": 987.51,
+            "uuid": "other-0792-0002"
+          }
+        ]
+      },
+      "links": {
+        "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/2111047871310183964720792/transactions?fromDate=2020-01-01&toDate=2026-11-16"
+      },
+      "meta": {
+        "totalPages": 1
+      }
+    }
+  },
+  "2111047871310183964825897": {
+    "status": 200,
+    "count": 3,
+    "body": {
+      "data": {
+        "transactions": [
+          {
+            "accountId": "2111047871310183964825897",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Sep22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-09-16",
+            "amount": 10.74,
+            "runningBalance": 2502.3,
+            "uuid": "other-5897-0001"
+          },
+          {
+            "accountId": "2111047871310183964825897",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Oct22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-10-16",
+            "amount": 11.26,
+            "runningBalance": 2513.56,
+            "uuid": "other-5897-0002"
+          },
+          {
+            "accountId": "2111047871310183964825897",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Nov22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-11-16",
+            "amount": 11.69,
+            "runningBalance": 2525.25,
+            "uuid": "other-5897-0003"
+          }
+        ]
+      },
+      "links": {
+        "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/2111047871310183964825897/transactions?fromDate=2020-01-01&toDate=2026-11-16"
+      },
+      "meta": {
+        "totalPages": 1
+      }
+    }
+  },
+  "3882638263210182035050683": {
+    "status": 200,
+    "count": 4,
+    "body": {
+      "data": {
+        "transactions": [
+          {
+            "accountId": "3882638263210182035050683",
+            "type": "CREDIT",
+            "transactionType": "Deposits",
+            "status": "POSTED",
+            "description": "FROM MOM",
+            "cardNumber": "",
+            "postedOrder": 1538,
+            "postingDate": "2026-10-31",
+            "valueDate": "2026-10-31",
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-11-01",
+            "amount": 2,
+            "runningBalance": 49.27,
+            "uuid": "other-0683-0001"
+          },
+          {
+            "accountId": "3882638263210182035050683",
+            "type": "CREDIT",
+            "transactionType": "Deposits",
+            "status": "POSTED",
+            "description": "FROM MOM",
+            "cardNumber": "",
+            "postedOrder": 1539,
+            "postingDate": "2026-10-31",
+            "valueDate": "2026-10-31",
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-11-02",
+            "amount": 2,
+            "runningBalance": 51.27,
+            "uuid": "other-0683-0002"
+          },
+          {
+            "accountId": "3882638263210182035050683",
+            "type": "CREDIT",
+            "transactionType": "Deposits",
+            "status": "POSTED",
+            "description": "FROM MOM",
+            "cardNumber": "",
+            "postedOrder": 1540,
+            "postingDate": "2026-10-31",
+            "valueDate": "2026-10-31",
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-11-02",
+            "amount": 2,
+            "runningBalance": 53.27,
+            "uuid": "other-0683-0003"
+          },
+          {
+            "accountId": "3882638263210182035050683",
+            "type": "CREDIT",
+            "transactionType": "Deposits",
+            "status": "POSTED",
+            "description": "FROM MOM",
+            "cardNumber": "",
+            "postedOrder": 1542,
+            "postingDate": "2026-11-15",
+            "valueDate": "2026-11-30",
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-11-16",
+            "amount": 2,
+            "runningBalance": 55.27,
+            "uuid": "other-0683-0004"
+          }
+        ]
+      },
+      "links": {
+        "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/3882638263210182035050683/transactions?fromDate=2020-01-01&toDate=2026-11-16"
+      },
+      "meta": {
+        "totalPages": 1
+      }
+    }
+  },
+  "3882638263210182035137740": {
+    "status": 200,
+    "count": 3,
+    "body": {
+      "data": {
+        "transactions": [
+          {
+            "accountId": "3882638263210182035137740",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Sep22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-09-16",
+            "amount": 49.23,
+            "runningBalance": 11471.41,
+            "uuid": "other-7740-0001"
+          },
+          {
+            "accountId": "3882638263210182035137740",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Oct22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-10-16",
+            "amount": 51.63,
+            "runningBalance": 11523.04,
+            "uuid": "other-7740-0002"
+          },
+          {
+            "accountId": "3882638263210182035137740",
+            "type": "CREDIT",
+            "transactionType": null,
+            "status": "POSTED",
+            "description": "Interest Value Date 01Nov22",
+            "cardNumber": "",
+            "postedOrder": 0,
+            "postingDate": "2027-03-03",
+            "valueDate": null,
+            "actionDate": "2026-11-16",
+            "transactionDate": "2026-11-16",
+            "amount": 53.6,
+            "runningBalance": 11576.64,
+            "uuid": "other-7740-0003"
+          }
+        ]
+      },
+      "links": {
+        "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/3882638263210182035137740/transactions?fromDate=2020-01-01&toDate=2026-11-16"
+      },
+      "meta": {
+        "totalPages": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "data": {
+    "accounts": [
+      {
+        "accountId": "3353431574710163189587446",
+        "accountNumber": "10011425044",
+        "accountName": "Mr Smith",
+        "referenceName": "Mr Smith Main",
+        "productName": "Private Bank Account",
+        "kycCompliant": true,
+        "profileId": "10163189587444",
+        "profileName": "Profile A"
+      },
+      {
+        "accountId": "3353431574710166878182963",
+        "accountNumber": "1100470321500",
+        "accountName": "Mr Smith",
+        "referenceName": "Mr Smith Prime",
+        "productName": "PrimeSaver",
+        "kycCompliant": true,
+        "profileId": "10163189587444",
+        "profileName": "Profile A"
+      },
+      {
+        "accountId": "3353431574710189969910439",
+        "accountNumber": "1100470321503",
+        "accountName": "Mr Smith",
+        "referenceName": "Mr Smith Money Fund",
+        "productName": "MoneyFund Tracker",
+        "kycCompliant": true,
+        "profileId": "10163189587444",
+        "profileName": "Profile A"
+      },
+      {
+        "accountId": "3353431574710163191281913",
+        "accountNumber": "1100470321540",
+        "accountName": "Mr Smith",
+        "referenceName": "Mr Smith Cash",
+        "productName": "Cash Management Account",
+        "kycCompliant": true,
+        "profileId": "10163189587444",
+        "profileName": "Profile A"
+      },
+      {
+        "accountId": "2111047871310183964720792",
+        "accountNumber": "10012024052",
+        "accountName": "Mrs Little Smith",
+        "referenceName": "Mrs Little Smith Youth",
+        "productName": "Investec Youth Account",
+        "kycCompliant": true,
+        "profileId": "10183964720789",
+        "profileName": "Profile B"
+      },
+      {
+        "accountId": "2111047871310183964825897",
+        "accountNumber": "1100581439500",
+        "accountName": "Mrs Little Smith",
+        "referenceName": "Mrs Little Smith Prime",
+        "productName": "PrimeSaver",
+        "kycCompliant": true,
+        "profileId": "10183964720789",
+        "profileName": "Profile B"
+      },
+      {
+        "accountId": "3882638263210182035050683",
+        "accountNumber": "10011948799",
+        "accountName": "Mr Little Smith",
+        "referenceName": "Mr Little Smith Youth",
+        "productName": "Investec Youth Account",
+        "kycCompliant": true,
+        "profileId": "10182035050680",
+        "profileName": "Profile C"
+      },
+      {
+        "accountId": "3882638263210182035137740",
+        "accountNumber": "1100579911500",
+        "accountName": "Mr Little Smith",
+        "referenceName": "Mr Little Smith Prime",
+        "productName": "PrimeSaver",
+        "kycCompliant": true,
+        "profileId": "10182035050680",
+        "profileName": "Profile C"
+      }
+    ]
+  },
+  "links": {
+    "self": "https://openapisandbox.investec.com/za/pb/v1/accounts"
+  },
+  "meta": {
+    "totalPages": 1
+  }
+}
