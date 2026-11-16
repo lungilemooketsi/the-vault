@@ -1,0 +1,19 @@
+function [tip, joints] = armFk(q)
+L = vault.armLengths();
+yaw = q(1);
+shoulder = q(2);
+elbow = q(3);
+wrist = q(4);
+a1 = shoulder;
+a2 = shoulder + elbow;
+a3 = shoulder + elbow + wrist;
+planar = L(2) * cos(a1) + L(3) * cos(a2) + L(4) * cos(a3);
+z = L(1) + L(2) * sin(a1) + L(3) * sin(a2) + L(4) * sin(a3);
+tip = [planar * cos(yaw), planar * sin(yaw), z];
+joints = zeros(5, 3);
+joints(1, :) = [0 0 0];
+joints(2, :) = [0 0 L(1)];
+joints(3, :) = joints(2, :) + [L(2) * cos(a1) * cos(yaw), L(2) * cos(a1) * sin(yaw), L(2) * sin(a1)];
+joints(4, :) = joints(3, :) + [L(3) * cos(a2) * cos(yaw), L(3) * cos(a2) * sin(yaw), L(3) * sin(a2)];
+joints(5, :) = tip;
+end

@@ -1,0 +1,11 @@
+.env
+config/local.json
+runtime/
+matlab/output/
+firmware/esp32/vault_node/secrets.h
+card-code/env.json
+*.asv
+*.autosave
+.DS_Store
+node_modules/
+*.log

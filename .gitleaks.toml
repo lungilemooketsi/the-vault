@@ -1,0 +1,15 @@
+title = "The Vault"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Placeholders and the public sandbox fixture. Account ids are API identifiers in the mock snapshot, not credentials."
+paths = [
+  '''(^|/)\.env\.example$''',
+  '''(^|/)config/local\.example\.json$''',
+  '''(^|/)firmware/.*/secrets\.example\.h$''',
+]
+regexes = [
+  '''YOUR_[A-Z0-9_]+''',
+]

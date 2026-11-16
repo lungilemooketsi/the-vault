@@ -1,0 +1,9 @@
+{
+  "mode": "",
+  "baseUrl": "https://openapisandbox.investec.com",
+  "clientId": "",
+  "clientSecret": "",
+  "apiKey": "",
+  "webhookUrl": "http://127.0.0.1:8787/vault/events",
+  "fixtureDir": "matlab/fixtures"
+}

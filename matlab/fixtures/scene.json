@@ -1,0 +1,15 @@
+{
+  "cellSize": 0.5,
+  "rows": 14,
+  "cols": 22,
+  "obstacles": [
+    {"r": 6, "c": 10, "h": 3, "w": 2}
+  ],
+  "vaultCurrent": {"r": 3, "c": 3, "name": "Current"},
+  "vaultSavings": {"r": 3, "c": 19, "name": "Savings"},
+  "counter": {"r": 11, "c": 6, "name": "Card counter"},
+  "exit": {"r": 11, "c": 18, "name": "Exit"},
+  "stage": {"r": 11, "c": 15, "name": "Pre-stage"},
+  "robotStart": {"r": 11, "c": 8},
+  "barValueRand": 1000
+}

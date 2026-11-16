@@ -1,0 +1,90 @@
+{
+  "3353431574710163189587446": {
+    "status": 200,
+    "body": {
+      "data": {
+        "transactions": [
+          {
+            "accountId": "3353431574710163189587446",
+            "type": "DEBIT",
+            "status": "PENDING",
+            "description": "Amazon Retail            Lagos        ZA",
+            "transactionDate": "2026-11-16",
+            "amount": 999
+          },
+          {
+            "accountId": "3353431574710163189587446",
+            "type": "DEBIT",
+            "status": "PENDING",
+            "description": "MRP HOME CENTURION       GP           ZA",
+            "transactionDate": "2026-11-16",
+            "amount": 560
+          },
+          {
+            "accountId": "3353431574710163189587446",
+            "type": "DEBIT",
+            "status": "PENDING",
+            "description": "YOUTUBE       GP           ZA",
+            "transactionDate": "2026-11-16",
+            "amount": 110
+          }
+        ]
+      },
+      "links": {
+        "self": "https://openapisandbox.investec.com/za/pb/v1/accounts/3353431574710163189587446/pending-transactions"
+      },
+      "meta": {
+        "totalPages": 1
+      }
+    }
+  },
+  "3353431574710166878182963": {
+    "status": 500,
+    "body": {
+      "title": "An error occurred while processing your request.",
+      "status": 500
+    }
+  },
+  "3353431574710189969910439": {
+    "status": 500,
+    "body": {
+      "title": "An error occurred while processing your request.",
+      "status": 500
+    }
+  },
+  "3353431574710163191281913": {
+    "status": 500,
+    "body": {
+      "title": "An error occurred while processing your request.",
+      "status": 500
+    }
+  },
+  "2111047871310183964720792": {
+    "status": 500,
+    "body": {
+      "title": "An error occurred while processing your request.",
+      "status": 500
+    }
+  },
+  "2111047871310183964825897": {
+    "status": 500,
+    "body": {
+      "title": "An error occurred while processing your request.",
+      "status": 500
+    }
+  },
+  "3882638263210182035050683": {
+    "status": 500,
+    "body": {
+      "title": "An error occurred while processing your request.",
+      "status": 500
+    }
+  },
+  "3882638263210182035137740": {
+    "status": 500,
+    "body": {
+      "title": "An error occurred while processing your request.",
+      "status": 500
+    }
+  }
+}
